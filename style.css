@@ -1,0 +1,139 @@
+#color{
+    color: white !important;
+}
+
+
+.card{
+    width: 250px !important;
+    display: flex !important;
+    flex-direction: row !important;
+    justify-content: space-between !important;
+    flex-wrap: wrap !important;
+    margin-left: 100px;
+}
+#ty{
+    display: flex !important;
+    flex-direction: row !important;
+    
+    flex-wrap: wrap !important;
+
+}
+.card2{
+    margin-right:200px;
+    
+}
+
+
+#miniCards {
+    display: flex;
+    flex-wrap: wrap;
+    width: 770px;
+    margin-left:150px ;
+}
+
+
+.mini {
+    border: 1px solid rgb(224, 224, 224);
+    padding: 18px 0px 18px 15px;
+    margin: -20px 25px 40px 10px;
+    background-color: rgb(245, 245, 245);
+    width: 350px;
+}
+
+.mini h4 {
+    /* display: block;
+    margin: 0; */
+    font-size: 15px;
+    font-weight: bold;
+    /* text-align: center; */
+    padding-left: 40px;
+    padding-top: 8px;
+    color: #316DC3;
+}
+
+
+#details123 {
+    background-color: rgb(39, 39, 41);
+    width: 100%;
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: rgb(179, 179, 179);
+    padding: 48px 20px 10px 20px;
+}
+
+#address12 {
+    width: 390px;
+    margin-right: 40px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+#address12 p {
+    margin-left: 43px;
+    margin-top: 30px;
+}
+
+#address12 ul li {
+    display: flex;
+    padding-bottom: 6px;
+    /* flex-wrap: wrap; */
+}
+
+#contactlinks ul {
+    display: flex;
+    list-style: none;
+}
+
+#contactlinks p {
+    font-size: 15px;
+    font-weight: bold;
+    color: white;
+    font-family: 'Merriweather';
+    margin-left: 48px;
+}
+
+#contactlinks ul li img {
+    width: 30px;
+    height: 30px;
+    margin: 0px 6px;
+    padding: 0px;
+}
+
+#usefullinks {
+    width: 360px;
+}
+
+#usefullinks hr {
+    background-color: rgb(14, 71, 6);
+}
+
+#usefullinks p {
+    font-size: 15px;
+    font-weight: bold;
+    color: white;
+    font-family: 'Merriweather';
+}
+
+#contactlinks {
+    width: 360px;
+    height: 80px;
+    margin-right: 50px;
+}
+
+#copyright {
+    background-color: #316DC3;
+    width: 100%;
+    color: white;
+    font-size: 10px;
+    padding-top: 5px;
+    padding-bottom: -9px;
+    /* padding: 8px ; */
+}
+
+#copyright p {
+    padding: 9px 0px 0px 110px;
+}
